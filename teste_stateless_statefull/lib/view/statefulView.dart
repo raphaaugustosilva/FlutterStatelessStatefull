@@ -43,6 +43,7 @@ class _StatefulViewState extends State<StatefulView> {
                 setState(() {
                   _numeroRandomicoResultado = obtemNumeroRandomico();
                 });
+                
               },
             ),
           ],
